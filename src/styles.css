@@ -42,6 +42,7 @@ ul {
 }
 .list {
   padding: 1rem;
+  cursor: pointer;
 }
 .hide {
   display: none;
